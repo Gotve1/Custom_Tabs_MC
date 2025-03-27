@@ -1,4 +1,4 @@
-package com.gotve.PureMDK.util;
+package com.gotve.Custom_Tabs_MC.util;
 
 public class Reference {
 

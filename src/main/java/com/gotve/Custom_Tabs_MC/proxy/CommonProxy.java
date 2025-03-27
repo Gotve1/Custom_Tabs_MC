@@ -1,4 +1,4 @@
-package com.gotve.PureMDK.proxy;
+package com.gotve.Custom_Tabs_MC.proxy;
 
 import net.minecraft.item.Item;
 
