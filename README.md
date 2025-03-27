@@ -10,4 +10,4 @@
 9. still do not work, check for `repositories` in `build.gradle`
 10. find `maven { url = 'https://files.minecraftforge.net/maven' }`
 11. and change the url
-12. after all of previos stages still do not work, download the project as zip and try 1th step
+12. after all of previos stages still do not work, download the project as zip and try start from 1th step
