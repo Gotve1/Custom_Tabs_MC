@@ -1,11 +1,11 @@
 [
   {
-   "modid": "puremdk",
-   "name": "Pure MDK",
-   "description": "Just a sample to make mods",
+   "modid": "customtabsmc",
+   "name": "Custom Tabs MC",
+   "description": "Just a mod which adds custom tabs to the game and few items.",
    "version": "1.0.0",
    "mcversion": "1.12.2",
-   "url": "https://github.com/Gotve1/Pure_MDK",
+   "url": "https://github.com/Gotve1/Custom_Tabs_MC",
    "updateUrl": "",
    "authorList": ["Gotve"],
    "credits": "",
